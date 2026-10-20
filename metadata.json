@@ -1,0 +1,6 @@
+{
+  "name": "Chicken Rescue - বিড়াল ও চিকেন খেলা",
+  "description": "একটি মজার আর্কেড গেম যেখানে লোভী বিড়ালদের হাত থেকে গরম ও মুচমুচে চিকেন দ্রুত নিরাপদ বক্সে সরিয়ে বাঁচাতে হবে!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
